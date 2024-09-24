@@ -8,7 +8,7 @@ const users = [
         password: '1', 
         duration: 1, 
         unit: 'days', 
-        FechaDeRegistro: '2022-09-20', // Cambiado a formato YYYY-MM-DD
+        FechaDeRegistro: '2024-09-22', // Cambiado a formato YYYY-MM-DD
         HoraDeRegistro: '02:15' 
     },
     { 
@@ -16,15 +16,15 @@ const users = [
         password: '1', 
         duration: 1, 
         unit: 'days', 
-        FechaDeRegistro: '2022-09-20', // Cambiado a formato YYYY-MM-DD
+        FechaDeRegistro: '2024-09-20', // Cambiado a formato YYYY-MM-DD
         HoraDeRegistro: '10:30' 
     },
     { 
-        username: 'Stepshito', 
+        username: 'Stephsito', 
         password: '1', 
         duration: 1, 
-        unit: 'weeks', 
-        FechaDeRegistro: '2024-09-23', // Cambiado a formato YYYY-MM-DD
+        unit: 'years', 
+        FechaDeRegistro: '2024-09-20', // Cambiado a formato YYYY-MM-DD
         HoraDeRegistro: '10:30' 
     },
     // Puedes agregar más usuarios aquí
