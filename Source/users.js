@@ -27,14 +27,6 @@ const users = [
         FechaDeRegistro: '2024-09-20', // Cambiado a formato YYYY-MM-DD
         HoraDeRegistro: '10:30' 
     },
-    { 
-        username: 'Verse', 
-        password: '1', 
-        duration: 1, 
-        unit: 'years', 
-        FechaDeRegistro: '2024-09-20', // Cambiado a formato YYYY-MM-DD
-        HoraDeRegistro: '10:30' 
-    },
     // Puedes agregar más usuarios aquí
 ];
 
