@@ -1,3 +1,4 @@
+<style>
 /* Reset de márgenes y padding */
 * {
     margin: 0;
@@ -228,6 +229,7 @@ padding:0;
 cursor: move;
 background: transparent;
 padding: 0;
-text-align: center;
-            
+text-align: center;            
 }
+
+</style>
